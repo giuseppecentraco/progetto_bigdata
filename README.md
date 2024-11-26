@@ -1,6 +1,6 @@
 # Analysis Instacart Online Grocery
 
-Un progetto di analisi dati sviluppato per il corso **Modelli e Tecniche per Big Data** presso l'Università della Calabria.
+Un progetto di analisi dati sviluppato per il corso **Modelli e Tecniche per Big Data**.
 
 ## Introduzione
 
